@@ -2,7 +2,7 @@
 
 using namespace std;
 
-int idade(){
+int main(){
     int idade;
     float altura;
 
